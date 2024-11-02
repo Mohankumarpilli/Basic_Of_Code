@@ -36,5 +36,6 @@ public class AliceAndSong {
 
         int result = maxFavouriteSongs(input1, input2);
         System.out.println("Output: " + result);
+        System.out.println("now you sing a song");
     }
 }
